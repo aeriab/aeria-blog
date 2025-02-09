@@ -22,8 +22,8 @@ title: Brendan Aeria blog
 email: brendan@aeriab.com
 description: >- # this means to ignore newlines until "baseurl:"
   Expanding the Horizons of Human Biology
-baseurl: "aeria-blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/aeria-blog" # the subpath of your site, e.g. /blog
+url: "https://aeriab.github.io/aeria-blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BrendanAeria
 github_username:  aeriab
 
