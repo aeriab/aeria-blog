@@ -5,7 +5,7 @@ date:   2025-02-09 00:06:22 -0800
 categories: jekyll update
 ---
 
-![Image]({{"/aeria-logo.png",  | relative_url }})
+![Image]({{"/assets/aeria-logo.png",  | relative_url }})
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
