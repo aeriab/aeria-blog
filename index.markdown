@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+![Image]({{"/assets/aeria-logo.png",  | relative_url }})
+
+Welcome to my blog! I am very passionate about biology and AI research. 
