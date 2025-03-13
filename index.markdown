@@ -4,7 +4,13 @@
 
 layout: home
 ---
+This blog is currently a work in progress, sorry.
+Click here to go to my portfolio:
 
-![Image]({{"/assets/aeria-logo.png",  | relative_url }})
+<a href="https://aeriab.github.io/">
+  ![Image]({{"/assets/aeria-logo.png",  | relative_url }})
+</a>
 
-Welcome to my blog! I am very passionate about biology and AI research. 
+
+
+Welcome to my blog! I love biology and AI research.
