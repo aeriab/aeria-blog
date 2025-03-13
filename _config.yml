@@ -22,11 +22,10 @@ title: Brendan Aeria
 email: brendan@aeriab.com
 description: >- # this means to ignore newlines until "baseurl:"
   Computational & Systems Biology · UCLA · undergraduate class of 2028
-baseurl: "" # Correct!
-url: "https://aeriab.github.io" # Correct!
+baseurl: "/aeria-blog" # Correct!
+url: "https://aeriab.github.io/aeria-blog" # Correct!
 twitter_username: BrendanAeria
 github_username:  aeriab
-logo: "/assets/aeria-logo.png"
 
 # Build settings
 theme: minima
