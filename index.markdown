@@ -5,7 +5,6 @@
 layout: home
 ---
 
-This blog is currently a work in progress, sorry.
 Click here to go to my portfolio:
 
 <a href="https://aeriab.github.io/">
