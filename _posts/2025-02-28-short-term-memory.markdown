@@ -13,6 +13,7 @@ It is important to recognize and squash these confusions before going into a tes
 
 This might be a hot take, but another tactic I have adopted is completely forgetting about the content of an exam I just completed. After every exam, I see so many people asking "How did you solve this problem?", but if I have another completely unrelated exam coming up the next day, in my experience, it is important to forget about my last test as quickly as possible.
 
+# FORGET ABOUT YOUR LAST TEST
 ![Image]({{"/assets/dory-image.png",  | relative_url }})
 
 It sucks to be actively trying to forget about a test I just took, but the reality is that my brain needs to be reoriented for the next test, especially when there are so many overlapping concepts.
