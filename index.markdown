@@ -5,12 +5,8 @@
 layout: home
 ---
 
-Click here to go to my portfolio:
-
-<a href="https://aeriab.github.io/">
-  ![Image]({{"/assets/aeria-logo.png",  | relative_url }})
-</a>
+# Welcome to my blog! 
+## I love biology, machine learning, and game development.
 
 
-
-Welcome to my blog! I love biology and AI research.
+⠀

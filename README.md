@@ -14,3 +14,7 @@ Here are the key files and folders in a Jekyll project:
   _config.yml: Your Jekyll configuration file. This is where you'll customize your blog's settings.
   
   Gemfile: Lists the Ruby gems (including Jekyll) your project depends on.
+
+For developer:
+
+bundle exec jekyll serve
