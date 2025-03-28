@@ -5,7 +5,4 @@
 layout: home
 ---
 
-## I love biology, machine learning, and game development.
-
-
 ⠀
