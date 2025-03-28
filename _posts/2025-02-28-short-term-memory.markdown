@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Short-Term Memory Sheets"
+title:  Short-Term Memory Sheets
 date:   2025-03-19 00:11:36 -0800
 categories: jekyll update
 ---
@@ -19,3 +19,17 @@ Forcing myself to forget is tough, but my brain needs to reorient, particularly 
 ![Image]({{"/assets/dory-image.png",  | relative_url }})
 
 It sucks to be actively trying to forget about a test I just took, but the reality is that my brain needs to be reoriented for the next test, especially when there are so many overlapping concepts.
+
+---
+ 
+
+ 
+
+My Socials:
+[Portfolio; ](https://aeriab.github.io){:target="_blank"}
+[GitHub; ](https://github.com/aeriab){:target="_blank"}
+[LinkedIn; ](https://www.linkedin.com/in/aeria){:target="_blank"}
+[Instagram; ](https://www.instagram.com/brendan_aeria1622/){:target="_blank"}
+[Twitter; ](https://x.com/BrendanAeria){:target="_blank"}
+[YouTube; ](https://www.youtube.com/@brendan3511/featured){:target="_blank"}
+
