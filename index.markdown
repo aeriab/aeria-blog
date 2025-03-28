@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Welcome to my blog! 
 ## I love biology, machine learning, and game development.
 
 
